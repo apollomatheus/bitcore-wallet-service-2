@@ -1,0 +1,1 @@
+# bitcore-wallet-service-2
